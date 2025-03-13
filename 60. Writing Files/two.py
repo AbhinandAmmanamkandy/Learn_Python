@@ -1,6 +1,6 @@
 employees = ["Eugene", "Squidward", "Spongebob", "Patrick"]
 
-file_path = "output.txt"
+file_path = "employee.txt"
 
 try:
     with open(file_path, "w") as file:
